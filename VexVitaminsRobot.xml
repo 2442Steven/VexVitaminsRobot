@@ -240,10 +240,10 @@
 	<x>58.2</x>
 	<y>100.0</y>
 	<z>12.6</z>
-	<rotw>-0.4999127259224037</rotw>
-	<rotx>0.500000000000004</rotx>
-	<roty>0.49999999999999595</roty>
-	<rotz>0.5000872588467253</rotz>
+	<rotw>-0.4999127259224038</rotw>
+	<rotx>0.5000000000000041</rotx>
+	<roty>0.49999999999999606</roty>
+	<rotz>0.5000872588467254</rotz>
 
 </baseToZframe>
 
@@ -556,9 +556,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
@@ -640,6 +640,38 @@
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>l-channel1</name>
+			<type>vexLchannel</type>
+			<id>2x2x25_Aluminum</id>
+			<pose>
+	<x>298.45</x>
+	<y>-82.55</y>
+	<z>28.800000000000004</z>
+	<rotw>7.615435475371987E-9</rotw>
+	<rotx>8.726646215650217E-5</rotx>
+	<roty>0.9999999923845646</roty>
+	<rotz>8.72664621571683E-5</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>bearing1</name>
+			<type>vex_Hex_Nut_Retainer</type>
+			<id>1_Post_Hex_Nut_Retainer_With_Bearing</id>
+			<pose>
+	<x>69.85000000000001</x>
+	<y>-82.55</y>
+	<z>9.750000000000002</z>
+	<rotw>6.170670739599833E-5</rotw>
+	<rotx>6.170670739596893E-5</rotx>
+	<roty>0.7071067784940847</roty>
+	<rotz>0.7071067784940843</rotz>
 			</pose>
 			<frame>default</frame>
 		</vitamin>
